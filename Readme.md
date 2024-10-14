@@ -9,7 +9,7 @@ Follow these steps to run the Node.js application with PostgreSQL and Redis in D
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/tazbin/blog-website-backend-nodejs-REST-API app
+   git clone https://github.com/GrigHakobyan/nodejs-pg-redis.git app
    ```
 2. Navigate to the repository:
     ```bash
